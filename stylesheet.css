@@ -48,7 +48,7 @@ label #sign-two{
   display: none;
 }
 @media (max-width:870px) {
-  label #sign-one { 
+  label #sign-one {
     display: block;
   }
   nav ul li a{
@@ -105,7 +105,7 @@ label #sign-two{
 
 .section-1 {
   height: 100vh;
-  background-image: url("./bilder/Bilde4.png");
+  background-image: url("./bilder/bilde4.png");
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
