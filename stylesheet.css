@@ -48,7 +48,7 @@ label #sign-two{
   display: none;
 }
 @media (max-width:870px) {
-  label #sign-one {
+  label #sign-one { 
     display: block;
   }
   nav ul li a{
